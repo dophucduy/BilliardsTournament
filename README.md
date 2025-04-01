@@ -76,56 +76,56 @@ Hệ thống này sẽ giúp tổ chức và quản lý các giải đấu billi
 
 
 **Trang đăng nhập/ đăng ký**
-![Hình Trang Đăng nhập](/asset/images/signup.png)
-![Hình Trang Đăng ký](/asset/images/login.png)
+![Hình Trang Đăng nhập](prj301-25sp-se1840-08-main/asset/images/signup.png)
+![Hình Trang Đăng ký](prj301-25sp-se1840-08-main/asset/images/login.png)
 
 
 **Trang homepage**
-![Hình Trang Homepage](/asset/images/homepage.png)
-![Hình Trang Homepage](/asset/images/homepage_2.png)
-![Hình Trang Homepage](/asset/images/homepage_3.png)
+![Hình Trang Homepage](prj301-25sp-se1840-08-main/asset/images/homepage.png)
+![Hình Trang Homepage](prj301-25sp-se1840-08-main/asset/images/homepage_2.png)
+![Hình Trang Homepage](prj301-25sp-se1840-08-main/asset/images/homepage_3.png)
 
 **Trang đăng ký giải đấu**
-![Hình Trang Chọn giải đấu](/asset/images/registerpage.png)
+![Hình Trang Chọn giải đấu](prj301-25sp-se1840-08-main/asset/images/registerpage.png)
 
 **Trang xem luật thi đấu**
-![Hình Trang Chọn giải đấu](/asset/images/rulepage.png)
+![Hình Trang Chọn giải đấu](prj301-25sp-se1840-08-main/asset/images/rulepage.png)
 
 **Trang thanh toán để hoàn tất đăng ký**
-![Hình Trang Thanh toán thành công](/asset/images/paymentstatus.png)
+![Hình Trang Thanh toán thành công](prj301-25sp-se1840-08-main/asset/images/paymentstatus.png)
 
 
 **Lịch sử đấu giải**
-![Hình Trang Lịch Sử Thi Đấu](/asset/images/matchhistory.png)
+![Hình Trang Lịch Sử Thi Đấu](prj301-25sp-se1840-08-main/asset/images/matchhistory.png)
 
 
 
 
 ## PHẦN ADMIN
 **Trang Admin quản lý User**
-![Hình Trang Admin Quản Lý User](/asset/images/user.png)
-![Hình Trang Admin Quản Lý User](/asset/images/user-edit.png)
+![Hình Trang Admin Quản Lý User](prj301-25sp-se1840-08-main/asset/images/user.png)
+![Hình Trang Admin Quản Lý User](prj301-25sp-se1840-08-main/asset/images/user-edit.png)
 
 **Trang Admin quản lý Games**
-![Hình Trang Admin Quản Lý Games](/asset/images/match.png)
-![Hình Trang Admin Quản Lý Games](/asset/images/match-edit.png)
+![Hình Trang Admin Quản Lý Games](prj301-25sp-se1840-08-main/asset/images/match.png)
+![Hình Trang Admin Quản Lý Games](prj301-25sp-se1840-08-main/asset/images/match-edit.png)
 
 **Trang Admin quản lý Round**
-![Hình Trang Admin Quản lý Round](/asset/images/round.png)
-![Hình Trang Admin Quản lý Round](/asset/images/round-edit.png)
+![Hình Trang Admin Quản lý Round](prj301-25sp-se1840-08-main/asset/images/round.png)
+![Hình Trang Admin Quản lý Round](prj301-25sp-se1840-08-main/asset/images/round-edit.png)
 
 **Trang Admin quản lý Tournament**
-![Hình Trang Admin Quản lý Tournament](/asset/images/tournament.png)
-![Hình Trang Admin Quản lý Tournament](/asset/images/tournament-edit.png)
+![Hình Trang Admin Quản lý Tournament](prj301-25sp-se1840-08-main/asset/images/tournament.png)
+![Hình Trang Admin Quản lý Tournament](prj301-25sp-se1840-08-main/asset/images/tournament-edit.png)
 
 
 **Trang Admin quản lý Transaction**
-![Hình Trang Admin Quản lý Tournament](/asset/images/transaction.png)
-![Hình Trang Admin Quản lý Tournament](/asset/images/transaction-edit.png)
+![Hình Trang Admin Quản lý Tournament](prj301-25sp-se1840-08-main/asset/images/transaction.png)
+![Hình Trang Admin Quản lý Tournament](prj301-25sp-se1840-08-main/asset/images/transaction-edit.png)
 
 ---
 ## ERD
-![Hình minh hoạ ERD](/asset/images/erd.png)
+![Hình minh hoạ ERD](prj301-25sp-se1840-08-main/asset/images/erd.png)
 
 ## FLOWCHART
 ![Hình minh hoạ ERD](/asset/images/flowchart.png)
