@@ -128,7 +128,7 @@ Hệ thống này sẽ giúp tổ chức và quản lý các giải đấu billi
 ![Hình minh hoạ ERD](prj301-25sp-se1840-08-main/asset/images/erd.png)
 
 ## FLOWCHART
-![Hình minh hoạ ERD](/asset/images/flowchart.png)
+![Hình minh hoạ ERD](prj301-25sp-se1840-08-main/asset/images/flowchart.png)
 
 
 
